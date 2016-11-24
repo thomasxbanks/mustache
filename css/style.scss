@@ -1,0 +1,97 @@
+@import 'variables';
+@import 'buttons';
+@import 'card';
+@import 'card-person';
+
+html {
+    -ms-text-size-adjust: 100%; // Prevents font resizing on Internet Explorer
+    -webkit-text-size-adjust: 100%; // Prevents font resizing on Chrome and Safari
+
+    * {
+        box-sizing: border-box !important; // Forces padding to be considered part of the width of an element
+        -webkit-font-smoothing: antialiased; // Cleans up font appearance on Chrome and Safari
+        -moz-osx-font-smoothing: grayscale; // Cleans up font appearance on Firefox
+    }
+
+    body {
+        margin: 0; // Removes browser applied margins
+        font-family: $font_face;
+        font-weight: 300;
+        color: $clr_black;
+        font-size: $font_size-std;
+        background: $clr_white;
+
+        a {
+            color: $clr_accent;
+        }
+    }
+}
+
+#masthead {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 5000;
+    background: #fff;
+    padding: 10px 0;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+
+    &.scaled {
+        h1 {
+            font-size: $font_size-med;
+            padding: 5px 20px;
+        }
+    }
+}
+
+#masthead h1 {
+    margin: 0;
+    padding: 10px 20px;
+    font-weight: normal;
+    transition: ease-in 300ms;
+
+    span {
+        color: $clr_brand;
+    }
+}
+
+nav {
+    padding: 0 10px;
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        font-size: 0;
+
+        li {
+            display: inline-block;
+
+            button {
+                @extend button;
+                font-family: $font_face;
+                font-size: $font_size-std;
+                padding: 5px 10px;
+                background: none;
+                box-shadow: inset 0 0 0 $clr_brand;
+                transition: box-shadow ease-in 100ms;
+
+                &:hover {
+                    font-weight: bold;
+                }
+
+                &.is-active {
+                    box-shadow: inset 0 -2px 0 $clr_brand;
+                }
+            }
+        }
+    }
+}
+
+main {
+    max-width: 960px;
+    margin: 0 auto;
+    font-size: 0;
+    text-align: center;
+}

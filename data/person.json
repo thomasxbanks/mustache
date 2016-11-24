@@ -1,0 +1,272 @@
+[
+  {
+    "_id": "5835cca93bb83718bc455871",
+    "index": 0,
+    "guid": "5f4353d5-76d9-48ef-b8ea-acb43293c510",
+    "isActive": false,
+    "balance": "$3,142.33",
+    "picture": "img/5835cca93bb83718bc455871.jpg",
+    "age": 21,
+    "eyeColor": "green",
+    "name": "Kimberly McDowningham-Guzman",
+    "gender": "female",
+    "company": "ELECTONIC",
+    "email": "kimguzman@electonic.com",
+    "phone": "+1 (999) 534-2088",
+    "address": "433 Nelson Street, Waiohinu, District Of Columbia, 4332",
+    "about": "Nisi cupidatat sit laborum incididunt eu nostrud laborum. Nulla ipsum labore velit dolor pariatur eiusmod id exercitation. Reprehenderit incididunt sint laboris adipisicing ea id sunt adipisicing enim qui. Pariatur id fugiat duis et commodo qui. Anim aliquip exercitation fugiat aute quis do mollit amet deserunt. Consequat commodo nostrud irure cillum et proident ex.\r\n",
+    "registered": "2014-06-14T09:38:41 -01:00",
+    "latitude": 76.162585,
+    "longitude": 155.886087,
+    "tags": [
+      "aliqua",
+      "aliquip",
+      "proident",
+      "enim",
+      "cillum",
+      "excepteur",
+      "et"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Avery Greene"
+      },
+      {
+        "id": 1,
+        "name": "Latonya Gomez"
+      },
+      {
+        "id": 2,
+        "name": "Chrystal Mcleod"
+      }
+    ],
+    "greeting": "Hello, Kim Guzman! You have 2 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5835cca9484cb90a9267385b",
+    "index": 1,
+    "guid": "3c9b5e04-4ae0-43d2-b64c-513e7e57f1ce",
+    "isActive": true,
+    "balance": "$3,282.64",
+    "picture": "img/5835cca9484cb90a9267385b.jpg",
+    "age": 26,
+    "eyeColor": "brown",
+    "name": "Sadie Barrera",
+    "gender": "female",
+    "company": "BUNGA",
+    "email": "sadiebarrera@bunga.com",
+    "phone": "+1 (909) 566-2800",
+    "address": "976 Sapphire Street, Bedias, Kentucky, 349",
+    "about": "Magna esse Lorem incididunt consequat cillum. Consequat ex aliqua sunt ullamco Lorem pariatur est deserunt mollit dolore officia laborum ullamco veniam. Veniam laboris amet fugiat cupidatat ut esse cupidatat nostrud eiusmod irure et. Excepteur qui cillum ullamco consectetur voluptate excepteur anim excepteur reprehenderit.\r\n",
+    "registered": "2016-02-19T08:40:34 -00:00",
+    "latitude": 34.075023,
+    "longitude": 3.360462,
+    "tags": [
+      "deserunt",
+      "dolore",
+      "consectetur",
+      "pariatur",
+      "nostrud",
+      "veniam",
+      "id"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Ofelia Stevens"
+      },
+      {
+        "id": 1,
+        "name": "Stewart Hensley"
+      },
+      {
+        "id": 2,
+        "name": "Buck Rhodes"
+      }
+    ],
+    "greeting": "Hello, Sadie Barrera! You have 6 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5835cca9323be18166facfa0",
+    "index": 2,
+    "guid": "0ffbf625-9c27-442c-9571-11ace9802c2f",
+    "isActive": true,
+    "balance": "$1,994.93",
+    "picture": "img/5835cca9323be18166facfa0.jpg",
+    "age": 32,
+    "eyeColor": "green",
+    "name": "Hendrix Lee",
+    "gender": "male",
+    "company": "AVIT",
+    "email": "hendrixlee@avit.com",
+    "phone": "+1 (834) 442-2015",
+    "address": "880 Elmwood Avenue, Norvelt, Northern Mariana Islands, 5488",
+    "about": "Quis esse eu esse sunt et magna pariatur voluptate dolore laborum. Esse enim irure fugiat non do voluptate amet do esse amet fugiat laborum. Voluptate anim enim consectetur esse excepteur dolore qui consectetur ex quis. Aliquip est eiusmod et elit ex nulla anim ex et exercitation nulla Lorem tempor ex. Labore sit ut ea amet proident laboris velit enim exercitation cupidatat.\r\n",
+    "registered": "2016-02-04T09:00:05 -00:00",
+    "latitude": 37.90629,
+    "longitude": 170.737945,
+    "tags": [
+      "eu",
+      "quis",
+      "id",
+      "dolore",
+      "in",
+      "excepteur",
+      "ipsum"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Knowles Murphy"
+      },
+      {
+        "id": 1,
+        "name": "Elliott Wilson"
+      },
+      {
+        "id": 2,
+        "name": "Traci Compton"
+      }
+    ],
+    "greeting": "Hello, Hendrix Lee! You have 8 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5835cca9277b988d52089149",
+    "index": 3,
+    "guid": "af820e91-09f9-4c2e-8322-12f3f18267d3",
+    "isActive": true,
+    "balance": "$2,498.32",
+    "picture": "img/5835cca9277b988d52089149.jpg",
+    "age": 36,
+    "eyeColor": "green",
+    "name": "Herminia Schneider",
+    "gender": "female",
+    "company": "BULLJUICE",
+    "email": "herminiaschneider@bulljuice.com",
+    "phone": "+1 (918) 545-3464",
+    "address": "963 Sunnyside Avenue, Longbranch, Maine, 6661",
+    "about": "Aute occaecat labore sint mollit minim tempor ullamco dolore voluptate duis. Lorem culpa esse labore fugiat culpa amet deserunt. Adipisicing minim duis nulla sit Lorem culpa laboris pariatur in nisi ut velit. Dolor duis anim commodo officia.\r\n",
+    "registered": "2015-01-26T02:44:01 -00:00",
+    "latitude": 15.526514,
+    "longitude": 163.95066,
+    "tags": [
+      "dolor",
+      "proident",
+      "ut",
+      "ad",
+      "tempor",
+      "laborum",
+      "est"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Valencia Dorsey"
+      },
+      {
+        "id": 1,
+        "name": "Huff Nolan"
+      },
+      {
+        "id": 2,
+        "name": "Margaret Shepherd"
+      }
+    ],
+    "greeting": "Hello, Herminia Schneider! You have 2 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5835cca9cd8d3d65925a1a2e",
+    "index": 4,
+    "guid": "a632b413-3b96-4f3f-9eb9-c406d7d01ca1",
+    "isActive": true,
+    "balance": "$1,854.67",
+    "picture": "img/5835cca9cd8d3d65925a1a2e.jpg",
+    "age": 32,
+    "eyeColor": "green",
+    "name": "Baird Ramsey",
+    "gender": "male",
+    "company": "TUBESYS",
+    "email": "bairdramsey@tubesys.com",
+    "phone": "+1 (983) 535-2777",
+    "address": "114 Hampton Avenue, Eagletown, North Dakota, 2320",
+    "about": "Ullamco qui labore culpa et cupidatat amet officia non cillum. Nostrud cillum ipsum laborum id exercitation aliqua consectetur aute. Eiusmod in dolor minim sint enim enim commodo ad magna labore cillum minim. Sunt adipisicing nisi proident dolor velit aliqua proident nisi.\r\n",
+    "registered": "2014-12-15T10:03:54 -00:00",
+    "latitude": -24.533174,
+    "longitude": -75.995355,
+    "tags": [
+      "aliqua",
+      "fugiat",
+      "excepteur",
+      "est",
+      "amet",
+      "nisi",
+      "non"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Dale Cameron"
+      },
+      {
+        "id": 1,
+        "name": "Deidre Sparks"
+      },
+      {
+        "id": 2,
+        "name": "Pittman Mason"
+      }
+    ],
+    "greeting": "Hello, Baird Ramsey! You have 1 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5835cca94d60dbf21381aeb6",
+    "index": 5,
+    "guid": "43415ca3-6d1b-4ba1-b5bd-2734a2792ede",
+    "isActive": true,
+    "balance": "$1,049.19",
+    "picture": "img/5835cca94d60dbf21381aeb6.jpg",
+    "age": 24,
+    "eyeColor": "brown",
+    "name": "Jordan Meyers",
+    "gender": "male",
+    "company": "CANOPOLY SMITHSON & MEYERS",
+    "email": "jordanmeyers@canopolysmithsonmeyers.com",
+    "phone": "+1 (999) 496-2874",
+    "address": "952 Cortelyou Road, Dalton, Oregon, 751",
+    "about": "Qui et Lorem qui eiusmod id. Eiusmod nulla nostrud proident nulla nulla reprehenderit proident anim dolor. Ad occaecat do officia labore enim est deserunt consectetur. Aliquip id minim ex dolor duis.\r\n",
+    "registered": "2016-02-10T12:00:26 -00:00",
+    "latitude": 16.251372,
+    "longitude": -53.033946,
+    "tags": [
+      "aliqua",
+      "exercitation",
+      "anim",
+      "ea",
+      "est",
+      "consequat",
+      "sint"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Goff Spencer"
+      },
+      {
+        "id": 1,
+        "name": "Jacqueline Travis"
+      },
+      {
+        "id": 2,
+        "name": "Rogers Aguirre"
+      }
+    ],
+    "greeting": "Hello, Jordan Meyers! You have 10 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]

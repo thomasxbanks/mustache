@@ -1,0 +1,14 @@
+[class^="card-"] {
+  display: inline-block;
+  vertical-align: top;
+  width: 300px;
+  padding: 0;
+  margin: 10px;
+  border-radius: 4px;
+  background: $clr_grey-light;
+  box-shadow: 0 0 8px rgba(0,0,0,0.4);
+  transition: ease-in 100ms;
+  &:hover {
+      box-shadow: 0 0 20px rgba(0,0,0,0.4);
+  }
+}
