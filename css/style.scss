@@ -95,3 +95,10 @@ main {
     font-size: 0;
     text-align: center;
 }
+
+body > footer {
+  padding: 20px;
+  margin-top: 20px;
+  background: $clr_brand;
+  color: $clr_white;
+}

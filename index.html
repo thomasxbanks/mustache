@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>Mustache by thomasxbanks</title>
 
-<<<<<<< HEAD
 <head>
     <meta charset="UTF-8">
     <title>thomasxbanks | Pissing around with Mustache</title>
@@ -13,42 +12,27 @@
     <link href="https://fonts.googleapis.com/css?family=Muli:300,400" rel="stylesheet">
     <link rel="stylesheet" href="css/style.min.css">
 </head>
-=======
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>Mustache</h1>
-        <p></p>
->>>>>>> 6802ecf5822d8f7d9b07a685632aedf2169bc9c6
-
-        <p class="view"><a href="https://github.com/thomasxbanks/mustache">View the Project on GitHub <small>thomasxbanks/mustache</small></a></p>
-
-
+<body>
+    <header id="masthead">
+      <h1>Filterable<span><strong>people</strong></span></h1>
+      <nav>
         <ul>
-          <li><a href="https://github.com/thomasxbanks/mustache/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/thomasxbanks/mustache/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/thomasxbanks/mustache">View On <strong>GitHub</strong></a></li>
+          <li><button data-rule="isActive" data-value="true">Online</button></li>
+          <li><button data-rule="gender" data-value="male">Men</button></li>
+          <li><button data-rule="gender" data-value="female">Women</button></li>
+          <li><button data-rule="eyeColor" data-value="green">Green Eyes</button></li>
         </ul>
-      </header>
-      <section>
-        <h1>
-<a id="-mustache" class="anchor" href="#-mustache" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>{ MUSTACHE</h1>
-
-<p>Pissing around with mustache stuff :)</p>
-      </section>
-      <footer>
-        <p>This project is maintained by <a href="https://github.com/thomasxbanks">thomasxbanks</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-    
-  </body>
+      </nav>
+    </header>
+    <main></main>
+    <footer>
+      <small id="colophon">
+        &copy; 2016 thomasxbanks
+      </small>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://use.fontawesome.com/804ff9ee50.js"></script>
+    <script src="js/mustache.min.js"></script>
+    <script src="js/index.js"></script>
+</body>
 </html>
