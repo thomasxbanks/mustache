@@ -64,9 +64,10 @@
     footer {
         padding: 10px;
         background: $clr_grey-dk;
-
+        line-height: $font_size-lrg;
         a i {
             font-size: $font_size-lrg;
+            transition: ease-in 200ms;
         }
 
         a {
@@ -80,14 +81,20 @@
                 opacity: 0;
                 position: absolute;
                 left: -50000px;
-                transition: opacity ease-in 100ms;
+                transition: opacity ease-in 300ms;
                 font-size: $font_size-sml;
             }
 
-            &:hover > abbr {
-                left: 4em;
-                opacity: 1;
-                line-height: 30px;
+            &:hover  {
+              > i {
+                color: $clr_brand;
+                font-size: $font_size-sml;
+              }
+              > abbr {
+                  left: 2em;
+                  opacity: 1;
+                  line-height: 30px;
+              }
             }
         }
     }
